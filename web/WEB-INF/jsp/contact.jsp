@@ -19,6 +19,7 @@
                 <td><label path="firstname">Nome</label></td>
                 <td><input name="firstname" id="firstname"/></td>
             </tr>
+            
             <tr>
                 <td colspan="2">
                     <input type="submit" value="Add Contact"/>
